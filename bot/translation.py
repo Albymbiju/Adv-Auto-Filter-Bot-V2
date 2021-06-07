@@ -5,12 +5,10 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
+<i>
+ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ്, എന്നെ <b>മൂവിബസാർ</b> ഗ്രൂപ്പിന് വേണ്ടി മാത്രമാണ് നിർമിച്ചിരിക്കുന്നത് 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@MovieWibe
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +41,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@MovieWibe
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Alby369">ROCKY</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/Albymbiju/Adv-Auto-Filter-Bot-V2">Click Me</a></i>
 """
